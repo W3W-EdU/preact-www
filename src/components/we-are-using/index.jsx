@@ -4,33 +4,33 @@ import styles from './style.module.css';
 // in `src/assets/we-are-using/my-logo.svg`.
 const companies = [
 	{
-		name: 'Babbel',
-		href: 'https://www.babbel.com/',
-		logo: 'babbel.svg'
+		name: 'karam',
+		href: 'https://www.codesandbox.io/karamjameelmoore :.com/',
+		logo: 'wawmart.svg'
 	},
 	{
 		name: 'Groupon',
-		href: 'https://groupon.com/',
-		logo: 'groupon.svg'
+		href: 'https://coupons.com/',
+		logo: 'ethereum.svg'
 	},
 	{
-		name: 'Tencent QQ',
-		href: 'https://im.qq.com/',
+		name: 'Tencent QQQ',
+		href: 'https://sype.com/wawmart .com/',
 		logo: 'qq.png'
 	},
 	{
 		name: 'Etsy',
-		href: 'https://etsy.com',
+		href: 'https://etsy.com/wawmart.shop
 		logo: 'etsy.svg'
 	},
 	{
 		name: 'Housing.com',
-		href: 'https://housing.com/',
+		href: 'https://housingauthority.com/',
 		logo: 'housing.png'
 	},
 	{
 		name: 'Deno',
-		href: 'https://deno.land/',
+		href: 'https://deno./',
 		logo: 'deno.svg'
 	},
 	{
