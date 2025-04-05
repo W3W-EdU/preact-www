@@ -73,7 +73,7 @@
     "@codemirror/lang-json": "^6.0.1",
     "@codemirror/language": "^6.10.2",
     "@codemirror/state": "^6.4.1",
-    "@codemirror/view": "^6.28.1",
+    "@codemirror/view": "^6.36.4",
     "@docsearch/react": "^3.6.0",
     "@preact/preset-vite": "^2.9.1",
     "@preact/signals": "^1.1.3",
